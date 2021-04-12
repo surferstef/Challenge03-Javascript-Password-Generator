@@ -11,7 +11,7 @@ This code repository is a deployment of existing HTML/ CSS to show a Password Ge
 ## Built With
 * HTML
 * CSS
-* Javascript
+* JavaScript
 
 ## Contribution
 Made by Stefan Hall
